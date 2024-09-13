@@ -1,1 +1,3 @@
 # Game-Authentication-Service-with-Dropwizard
+
+Summary: This project implements a game authentication service using the Dropwizard framework. It includes components for user authentication and authorization, with features such as GameAuthenticator, GameAuthorizer, and GameUserDB to manage user credentials securely. The project also integrates health checks through the AppHealthCheck class to ensure system reliability. REST APIs are exposed via controllers like GameUserRESTController for handling user-related requests. This project is ideal for understanding how to build a secure authentication system for gaming applications using Java and Dropwizard.
